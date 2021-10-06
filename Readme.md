@@ -31,6 +31,7 @@
 
 - **Option 2**
     - 👯 Clone this repo to your local machine.
+    - tshirt chaiye bhai
 
 
 #### Step 2
